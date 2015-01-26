@@ -14,7 +14,13 @@
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-jasmine-node": "~0.2.1",
-    "jasmine-node": "~1.14.5"
+    "jasmine-node": "~1.14.5",
+    "async" : "*",
+    "fs-extra": "*",
+    "lodash" : "*",
+    "clinch" : "*",
+    "uglify-js": "*",
+    "coffee-script": "*"
   },
   "repository": {
     "type": "git",
